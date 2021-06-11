@@ -1,0 +1,20 @@
+http://localhost:8080/api/values вывод всех значений таблицы (get)
+http://localhost:8080/api/values/5 вывод строки по id_value(get)
+http://localhost:8080/api/values/23 удаление элемента по id_value(delete)
+
+http://localhost:8080/api/values/2 изменяем значение строки с id_value=2(put)
+
+    {
+        
+        "id_ent": 1,
+        "id_attr": 11,
+        "value": "ivan_ivanov@mail.ru"
+    }
+
+http://localhost:8080/api/values (POST) создание новой записи 
+    {
+        
+        "id_ent": 5,
+        "id_attr": 19,
+        "value": "19:00"
+    }
