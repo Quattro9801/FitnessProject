@@ -10,4 +10,4 @@
 -Java;
 -TypeScript
 -JavaScript
-![alt text](Screen/скрин.png"Описание будет тут")​
+![alt text](//Screen/скрин.png"Описание будет тут")​
