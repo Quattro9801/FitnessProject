@@ -10,4 +10,4 @@
 -Java;
 -TypeScript
 -JavaScript
-![alt text](//Screen/скрин.png"Описание будет тут")​
+![alt text](https://github.com/Quattro9801/FitnessProject/blob/main/Screen/%D1%81%D0%BA%D1%80%D0%B8%D0%BD.png"Описание будет тут")​
