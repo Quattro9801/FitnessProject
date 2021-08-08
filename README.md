@@ -10,4 +10,4 @@
 -Java;
 -TypeScript
 -JavaScript
-![alt text](https://disk.yandex.ru/d/lkCUCAmdsVWJgQ "Описание будет тут")​
+![alt text](Screen/скрин.png"Описание будет тут")​
