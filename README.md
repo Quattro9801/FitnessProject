@@ -10,4 +10,4 @@
 -Java;
 -TypeScript
 -JavaScript
-![alt text](https://github.com/Quattro9801/FitnessProject/blob/main/Screen/firstpage.png"Описание будет тут")​
+![alt text](https://images.wallpaperscraft.ru/image/doroga_oblaka_reka_gory_asfalt_razmetka_46714_1280x720.jpg"Описание будет тут")​
