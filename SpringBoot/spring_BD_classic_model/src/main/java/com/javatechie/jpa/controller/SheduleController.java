@@ -40,11 +40,7 @@ public class SheduleController {
     }
 
 
-
-
-
-
-    @GetMapping("/persons/personId/{id}") // поиск по id
+    @GetMapping("/persons1/personId/{id}") // поиск по id
     public List<PersonModel> getUserId(@PathVariable("id") Long id) {
         return repository.getUserId(id);
     }
