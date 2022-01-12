@@ -10,4 +10,4 @@
 -Java;
 -TypeScript
 -JavaScript
-![alt text](https://github.com/Quattro9801/FitnessProject/blob/main/Screen/firstpage.png "Описание будет тут")​
+
